@@ -30,5 +30,4 @@ It is especially useful for:
 
 ## Additional Information
 
-Our private repository contains additional code and datasets from research papers related to **demand estimation**, **digital markets**, **auctions**, and **vertical markets**, along with other conference topics.  
-Please complete the conference access form to request entry.
+Our private repository contains additional code and datasets from research papers related to **demand estimation**.
