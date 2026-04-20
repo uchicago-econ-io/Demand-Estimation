@@ -24,6 +24,7 @@ It is especially useful for:
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
 | Patrick Bajari, Denis Nekipelov, Stephen Ryan, Miaoyu Yang | *Machine Learning Methods for Demand Estimation* | *American Economic Review* | 2015 | [Open](https://doi.org/10.3886/E113366V1) |
+| Mogens Fosgerau, Julien Monardo, André de Palma | *The Inverse Product Differentiation Logit Model* | *American Economic Journal: Microeconomics* | 2024 | [Open](https://www.openicpsr.org/openicpsr/project/194501/version/V1/view) |
 | Matthew Backus, Greg Lewis | *Dynamic Demand Estimation in Auction Markets* | *Review of Economic Studies* | 2024 | [Open](https://zenodo.org/records/10416565) |
 
 ---
