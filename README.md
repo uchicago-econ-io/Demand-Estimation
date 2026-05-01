@@ -61,6 +61,15 @@ This repository is meant to make replication work in demand estimation more acce
 | John A. Clithero, Jae‐Joon Lee, Joshua Tasoff | *Supervised Machine Learning for Eliciting Individual Demand* | *American Economic Journal: Microeconomics* | 2023 | [Open](https://doi.org/10.3886/E180561V1) |
 | Mogens Fosgerau, Julien Monardo, André de Palma | *The Inverse Product Differentiation Logit Model* | *American Economic Journal: Microeconomics* | 2024 | [Open](https://doi.org/10.3886/E194501V1) |
 | Lorenzo Magnolfi, Jonathon McClure, Alan Sorensen | *Triplet Embeddings for Demand Estimation* | *American Economic Journal: Microeconomics* | 2025 | [Open](https://doi.org/10.3886/E199922V1) |
+
+
+## Other
+
+| Authors | Paper | Journal | Year | Package |
+|--------|-------|---------|------|---------|
+| Guy Aridor | *Measuring Substitution Patterns in the Attention Economy: An Experimental Approach* | *RAND Journal of Economics* | 2025 | [Open](https://github.com/rawls238/time_use_study_chrome_extension) |
+
+
 ---
 
 ## Additional Information
