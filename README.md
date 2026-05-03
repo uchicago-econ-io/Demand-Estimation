@@ -19,49 +19,55 @@ This repository is meant to make replication work in demand estimation more acce
 
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
-| Patrick Bajari, Denis Nekipelov, Stephen Ryan, Miaoyu Yang | *Machine Learning Methods for Demand Estimation* | *American Economic Review* | 2015 | [Open](https://doi.org/10.3886/E113366V1) |
-| Timothy B. Armstrong | *Large Market Asymptotics for Differentiated Product Demand Estimators with Economic Models of Supply* | *Econometrica* | 2016 | [Open](https://www.econometricsociety.org/publications/econometrica/2016/09/01/large-market-asymptotics-differentiated-product-demand/supp/10600_Data_and_Programs.zip) |
-| Odran Bonnet, Alfred Galichon, Yu-Wei Hsieh, Keith O’Hara, Matt Shum | *Yogurts Choose Consumers? Estimation of Random-Utility Models via Two-Sided Matching* | *The Review of Economic Studies* | 2022 | [Open](https://zenodo.org/records/5896606) |
-| Pietro Tebaldi, Alexander Torgovitsky, Hanbin Yang | *Nonparametric Estimates of Demand in the California Health Insurance Exchange* | *Econometrica* | 2023 | [Open](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.3982%2FECTA17215&file=ecta200513-sup-0002-dataandprograms.zip) |
-| Matthew Backus, Greg Lewis | *Dynamic Demand Estimation in Auction Markets* | *Review of Economic Studies* | 2024 | [Open](https://zenodo.org/records/10416565) |
+| Lars-Hendrik Röller, Frode Steen | *On the Workings of a Cartel: Evidence from the Norwegian Cement Industry* | *American Economic Review* | 2006 | [Open](https://doi.org/10.3886/E116086V1) |
+| Nathan H. Miller | *Strategic Leniency and Cartel Enforcement* | *American Economic Review* | 2009 | [Open](https://doi.org/10.3886/E113304V1) |
+| John Asker | *A Study of the Internal Organization of a Bidding Cartel* | *American Economic Review* | 2010 | [Open](https://doi.org/10.3886/E112356V1) |
+| Jean-François Houde | *Spatial Differentiation and Vertical Mergers in Retail Markets for Gasoline* | *American Economic Review* | 2012 | [Open](https://doi.org/10.3886/E231348V1) |
+| Jason Allen, Robert Clark, Jean-François Houde | *The Effect of Mergers in Search Markets: Evidence from the Canadian Mortgage Industry* | *American Economic Review* | 2014 | [Open](https://doi.org/10.3886/E112701V1) |
+| Serguey Braguinsky et al. | *Acquisitions, Productivity, and Profitability* | *American Economic Review* | 2015 | [Open](https://doi.org/10.3886/E112974V1) |
+| Nathan H. Miller, Matthew C. Weinberg | *Understanding the Price Effects of the MillerCoors Joint Venture* | *Econometrica* | 2017 | [Open](https://www.econometricsociety.org/publications/econometrica/2017/11/01/understanding-price-effects-millercoors-joint-venture/supp/13333_Data_and_Programs.zip) |
+| Mitsuru Igami, Kosuke Uetake | *Mergers, Innovation, and Entry-Exit Dynamics: Consolidation of the Hard Disk Drive Industry, 1996–2016* | *The Review of Economic Studies* | 2020 | [Open](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/restud/87/6/10.1093_restud_rdz044/6/rdz044_supplementary_data.zip) |
+| Paul J. Eliason, Benjamin Heebsh, Ryan C. McDevitt, James W. Roberts | *How Acquisitions Affect Firm Behavior and Performance: Evidence from the Dialysis Industry* | *The Quarterly Journal of Economics* | 2020 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RPOREE) |
+| Joel M. David | *The Aggregate Implications of Mergers and Acquisitions* | *The Review of Economic Studies* | 2021 | [Open](https://dx.doi.org/10.5281/zenodo.4066885) |
+| Nathan H. Miller, Gloria Sheu, Matthew C. Weinberg | *Oligopolistic Price Leadership and Mergers: The United States Beer Industry* | *American Economic Review* | 2021 | [Open](https://www.openicpsr.org/openicpsr/project/140341/version/V2/view) |
 
 
-##  Review of Economics and Statistics
+## Review of Economics and Statistics
 
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
-| Eugenio J. Miravete; Ignacio Palacios-Huerta | *Consumer Inertia, Choice Dependence, and Learning from Experience in a Repeated Decision Problem* | Review of Economics and Statistics | 2014 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/29477) |
-| Christopher R. Knittel; Konstantinos Metaxoglou | *Estimation of Random-Coefficient Demand Models: Two Empiricists' Perspective* | Review of Economics and Statistics | 2014 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/26803) |
-| Richard Blundell; Joel Horowitz; Matthias Parey | *Nonparametric Estimation of a Nonseparable Demand Function under the Slutsky Inequality Restriction* | Review of Economics and Statistics | 2017 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0YALNP) |
-| Sofronis Clerides; Pascal Courty | *Sales, Quantity Surcharge, and Consumer Inattention* | Review of Economics and Statistics | 2017 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JSDHFJ) |
-| Devesh Raval; Ted Rosenbaum | *Why Do Previous Choices Matter for Hospital Demand? Decomposing Switching Costs from Unobserved Preferences* | Review of Economics and Statistics | 2018 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1JNPUA) |
-| Nicolas Berman; Vincent Rebeyrol; Vincent Vicard | *Demand Learning and Firm Dynamics: Evidence from Exporters* | Review of Economics and Statistics | 2019 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DMJREU) |
-| Richard Blundell; Joel Horowitz; Matthias Parey | *Estimation of a Heterogeneous Demand Function with Berkson Errors* | Review of Economics and Statistics | 2022 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1H3CPO) |
-| Benjamin Leard; Joshua Linn; Yichen Christy Zhou | *How Much Do Consumers Value Fuel Economy and Performance? Evidence from Technology Adoption* | Review of Economics and Statistics | 2023 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/U3QAGB) |
-| Josh Feng | *History Dependence in Drug Demand: Identification and Implications for Entry Incentives* | Review of Economics and Statistics | 2024 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/85KC2A) |
-| Pedro Carneiro; Jishnu Das; Hugo Reis | *The Value of Private Schools: Evidence from Pakistan* | Review of Economics and Statistics | 2024 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TXDGZK) |
-| Ryan C. McDevitt; Aaron Sojourner | *The Need for Speed: Demand, Regulation, and Welfare on the Margin of Alternative Financial Services* | Review of Economics and Statistics | 2025 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RVRCAP) |
-| Keith Head; Thierry Mayer | *Poor Substitutes? Counterfactual Methods in Industrial Organization and Trade Compared* | Review of Economics and Statistics | 2026 | [Open](https://drive.google.com/file/d/1VJDXZ_CjQexZW_x94qF9CtNVL2P5xhxl/view) |
+| Jacob A. Bikker; Sherrill Shaffer; Laura Spierdijk | *Assessing Competition with the Panzar-Rosse Model: The Role of Scale, Costs, and Equilibrium* | Review of Economics and Statistics | 2012 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BYCAFE) |
+| Volodymyr Bilotkach; Kai Hüschelrath | *Airline Alliances, Antitrust Immunity, and Market Foreclosure* | Review of Economics and Statistics | 2013 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/22853) |
+| Paolo Buccirossi; Lorenzo Ciari; Tomaso Duso; Giancarlo Spagnolo; Cristiana Vitale | *Competition Policy and Productivity Growth: An Empirical Assessment* | Review of Economics and Statistics | 2013 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/25293) |
+| Matthew C. Weinberg; Daniel Hosken | *Evidence on the Accuracy of Merger Simulations* | Review of Economics and Statistics | 2013 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/24481) |
+| Li Gan; Manuel A. Hernandez | *Making Friends with Your Neighbors? Agglomeration and Tacit Collusion in The Lodging Industry* | Review of Economics and Statistics | 2013 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/X5ZCTK) |
 
 
 ## American Economic Journal: Microeconomics
 
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
-| Christian A. Vossler, Maurice Doyon, Daniel Rondeau | *Truth in Consequentiality: Theory and Field Evidence on Discrete Choice Experiments* | *American Economic Journal: Microeconomics* | 2012 | [Open](https://doi.org/10.3886/E114400V1) |
-| Christopher T. Conlon, Julie Holland Mortimer | *Demand Estimation Under Incomplete Product Availability* | *American Economic Journal: Microeconomics* | 2013 | [Open](https://doi.org/10.3886/E116443V1) |
-| Richard Blundell, Martin Browning, Laurens Cherchye, Ian Crawford, Bram De Rock et al. | *Sharp for SARP: Nonparametric Bounds on Counterfactual Demands* | *American Economic Journal: Microeconomics* | 2015 | [Open](https://doi.org/10.3886/E114324V1) |
-| Minjae Song | *Estimating Platform Market Power in Two-Sided Markets with an Application to Magazine Advertising* | *American Economic Journal: Microeconomics* | 2021 | [Open](https://doi.org/10.3886/E115882V1) |
-| John A. Clithero, Jae‐Joon Lee, Joshua Tasoff | *Supervised Machine Learning for Eliciting Individual Demand* | *American Economic Journal: Microeconomics* | 2023 | [Open](https://doi.org/10.3886/E180561V1) |
-| Mogens Fosgerau, Julien Monardo, André de Palma | *The Inverse Product Differentiation Logit Model* | *American Economic Journal: Microeconomics* | 2024 | [Open](https://doi.org/10.3886/E194501V1) |
-| Lorenzo Magnolfi, Jonathon McClure, Alan Sorensen | *Triplet Embeddings for Demand Estimation* | *American Economic Journal: Microeconomics* | 2025 | [Open](https://doi.org/10.3886/E199922V1) |
-
+| Robert Clark, Jean‐François Houde | *Collusion with Asymmetric Retailers: Evidence from a Gasoline Price-Fixing Case* | *American Economic Journal: Microeconomics* | 2013 | [Open](https://doi.org/10.3886/E114410V1) |
+| David J. Cooper, Kai‐Uwe Kühn | *Communication, Renegotiation, and the Scope for Collusion* | *American Economic Journal: Microeconomics* | 2014 | [Open](https://doi.org/10.3886/E114417V1) |
+| Allan Collard‐Wexler | *Mergers and Sunk Costs: An Application to the Ready-Mix Concrete Industry* | *American Economic Journal: Microeconomics* | 2014 | [Open](https://doi.org/10.3886/E114426V1) |
+| James W. Roberts, Andrew Sweeting | *Bailouts and the Preservation of Competition: The Case of the Federal Timber Contract Payment Modification Act* | *American Economic Journal: Microeconomics* | 2016 | [Open](https://doi.org/10.3886/E114339V1) |
+| Melissa Newham, Jo Seldeslachts, Albert Banal‐Estañol | *Common Ownership and Market Entry: Evidence from Pharmaceutical Industry* | *American Economic Journal: Microeconomics* | 2018 | [Open](https://doi.org/10.3886/E205561V1) |
+| Ari Hyytinen, Frode Steen, Otto Toivanen | *Cartels Uncovered* | *American Economic Journal: Microeconomics* | 2018 | [Open](https://doi.org/10.3886/E114362V1) |
+| Matthew Backus, Christopher T. Conlon, Michael Sinkinson | *Common Ownership in America: 1980–2017* | *American Economic Journal: Microeconomics* | 2021 | [Open](https://doi.org/10.3886/E120083V1) |
+| Wallace P. Mullin, Christopher M. Snyder | *A Simple Method for Bounding the Elasticity of Growing Demand with Applications to the Analysis of Historic Antitrust Cases* | *American Economic Journal: Microeconomics* | 2021 | [Open](https://doi.org/10.3886/E116767V1) |
+| Sven Heim, Kai Hüschelrath, Ulrich Laitenberger, Yossi Spiegel | *The Anticompetitive Effect of Minority Share Acquisitions: Evidence from the Introduction of National Leniency Programs* | *American Economic Journal: Microeconomics* | 2022 | [Open](https://doi.org/10.3886/E119694V1) |
+| David A. Benson, Samuel Blattner, Serafin Grundl, You Suk Kim, Ken Onishi | *Concentration and Geographic Proximity in Antitrust Policy: Evidence from Bank Mergers* | *American Economic Journal: Microeconomics* | 2024 | [Open](https://doi.org/10.3886/E192705V1) |
+| John Manuel Barrios, Thomas Wollmann | *A New Era of Midnight Mergers: Antitrust Risk and Investor Disclosures* | *American Economic Journal: Microeconomics* | 2024 | [Open](https://doi.org/10.3886/E193241V1) |
+| Peter Caradonna, Nathan H. Miller, Gloria Sheu | *Mergers, Entry, and Consumer Welfare* | *American Economic Journal: Microeconomics* | 2025 | [Open](https://doi.org/10.3886/E206681V1) |
 
 ## Other
 
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
-| Guy Aridor | *Measuring Substitution Patterns in the Attention Economy: An Experimental Approach* | *RAND Journal of Economics* | 2025 | [Open](https://github.com/rawls238/time_use_study_chrome_extension) |
+| Anna Rita Bennato, Stephen Davies, Franco Mariuzzo, Peter Ormosi | *Mergers and innovation: Evidence from the hard disk drive market* | *International Journal of Industrial Organization* | 2021 | [Open](https://github.com/PeterOrmosi/hdd_innovation) |
+| Xulia González, María J. Moral | *Effects of antitrust prosecution on retail fuel prices* | *International Journal of Industrial Organization* | 2019 | [Open](https://data.mendeley.com/datasets/mf9rwcs6k2/1) |
+| Paul S. Koh | *Market definition: A sensitivity analysis* | *International Journal of Industrial Organization* | 2025 | [Open](https://doi.org/10.5281/zenodo.16809457) |
+| Klaus Gugler, Florian Szücs, Ulrich Wohak | *Start-up acquisitions, venture capital and innovation: A comparative study of Google, Apple, Facebook, Amazon and Microsoft* | *International Journal of Industrial Organization* | 2025 | [Open](https://zenodo.org/records/14793991) |
 
 
 ---
