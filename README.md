@@ -30,7 +30,6 @@ This repository is meant to make replication work in demand estimation more acce
 
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
-| Antara Dutta | *From Free Entry to Patent Protection: Welfare Implications for the Indian Pharmaceutical Industry* | Review of Economics and Statistics | 2011 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CVK22Q) |
 | Jacob A. Bikker; Sherrill Shaffer; Laura Spierdijk | *Assessing Competition with the Panzar-Rosse Model: The Role of Scale, Costs, and Equilibrium* | Review of Economics and Statistics | 2012 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BYCAFE) |
 | Michael Koetter; James W. Kolari; Laura Spierdijk | *Enjoying the Quiet Life under Deregulation? Evidence from Adjusted Lerner Indices for U.S. Banks* | Review of Economics and Statistics | 2012 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5NWRNW) |
 | Eugenio J. Miravete; Ignacio Palacios-Huerta | *Consumer Inertia, Choice Dependence, and Learning from Experience in a Repeated Decision Problem* | Review of Economics and Statistics | 2014 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/29477) |
