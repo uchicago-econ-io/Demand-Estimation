@@ -26,22 +26,17 @@ This repository is meant to make replication work in demand estimation more acce
 | Matthew Backus, Greg Lewis | *Dynamic Demand Estimation in Auction Markets* | *Review of Economic Studies* | 2024 | [Open](https://zenodo.org/records/10416565) |
 
 
-## Review of Economics and Statistics
+##  Review of Economics and Statistics
 
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
-| Jacob A. Bikker; Sherrill Shaffer; Laura Spierdijk | *Assessing Competition with the Panzar-Rosse Model: The Role of Scale, Costs, and Equilibrium* | Review of Economics and Statistics | 2012 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BYCAFE) |
-| Michael Koetter; James W. Kolari; Laura Spierdijk | *Enjoying the Quiet Life under Deregulation? Evidence from Adjusted Lerner Indices for U.S. Banks* | Review of Economics and Statistics | 2012 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5NWRNW) |
 | Eugenio J. Miravete; Ignacio Palacios-Huerta | *Consumer Inertia, Choice Dependence, and Learning from Experience in a Repeated Decision Problem* | Review of Economics and Statistics | 2014 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/29477) |
-| Mian Dai; Qihong Liu; Konstantinos Serfes | *Is the Effect of Competition on Price Dispersion Nonmonotonic? Evidence from the U.S. Airline Industry* | Review of Economics and Statistics | 2014 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/26069) |
-| Alain de Janvry; Craig McIntosh; Elisabeth Sadoulet | *Fair Trade and Free Entry: Can a Disequilibrium Market Serve as a Development Tool?* | Review of Economics and Statistics | 2015 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/27474) |
-| Adam Copeland; Adam Hale Shapiro | *Price Setting and Rapid Technology Adoption: The Case of the PC Industry* | Review of Economics and Statistics | 2016 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/29522) |
+| Christopher R. Knittel; Konstantinos Metaxoglou | *Estimation of Random-Coefficient Demand Models: Two Empiricists' Perspective* | Review of Economics and Statistics | 2014 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/26803) |
 | Richard Blundell; Joel Horowitz; Matthias Parey | *Nonparametric Estimation of a Nonseparable Demand Function under the Slutsky Inequality Restriction* | Review of Economics and Statistics | 2017 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0YALNP) |
 | Sofronis Clerides; Pascal Courty | *Sales, Quantity Surcharge, and Consumer Inattention* | Review of Economics and Statistics | 2017 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JSDHFJ) |
 | Devesh Raval; Ted Rosenbaum | *Why Do Previous Choices Matter for Hospital Demand? Decomposing Switching Costs from Unobserved Preferences* | Review of Economics and Statistics | 2018 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1JNPUA) |
 | Nicolas Berman; Vincent Rebeyrol; Vincent Vicard | *Demand Learning and Firm Dynamics: Evidence from Exporters* | Review of Economics and Statistics | 2019 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DMJREU) |
 | Richard Blundell; Joel Horowitz; Matthias Parey | *Estimation of a Heterogeneous Demand Function with Berkson Errors* | Review of Economics and Statistics | 2022 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1H3CPO) |
-| Gunnar Heins | *Endogenous Vertical Differentiation, Variety, and the Unequal Gains from Trade* | Review of Economics and Statistics | 2023 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QY5TOO) |
 | Benjamin Leard; Joshua Linn; Yichen Christy Zhou | *How Much Do Consumers Value Fuel Economy and Performance? Evidence from Technology Adoption* | Review of Economics and Statistics | 2023 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/U3QAGB) |
 | Josh Feng | *History Dependence in Drug Demand: Identification and Implications for Entry Incentives* | Review of Economics and Statistics | 2024 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/85KC2A) |
 | Pedro Carneiro; Jishnu Das; Hugo Reis | *The Value of Private Schools: Evidence from Pakistan* | Review of Economics and Statistics | 2024 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TXDGZK) |
