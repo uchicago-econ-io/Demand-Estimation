@@ -62,6 +62,7 @@ This repository is meant to make replication work in demand estimation more acce
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
 | Abe Dunn | *Drug Innovations and Welfare Measures Computed from Market Demand: The Case of Anti-Cholesterol Drugs* | *American Economic Journal: Applied Economics* | 2012 | [Open](https://doi.org/10.1257/app.4.3.167) |
+| Max J. Pachali; Peter Kurz; Thomas Otter | *How to generalize from a hierarchical model?* | *Quantitative Marketing and Economics* | 2020 | [Open](https://github.com/mpachali/How-to-Generalize-Hierarchical-Model-Replication) |
 | Guy Aridor | *Measuring Substitution Patterns in the Attention Economy: An Experimental Approach* | *RAND Journal of Economics* | 2025 | [Open](https://github.com/rawls238/time_use_study_chrome_extension) |
 
 
