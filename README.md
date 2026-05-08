@@ -66,6 +66,7 @@ This repository is meant to make replication work in demand estimation more acce
 | Robert Donnelly; Francisco J.R. Ruiz; David Blei; Susan Athey | *Counterfactual inference for consumer choice across many product categories* | *Quantitative Marketing and Economics* | 2021 | [Open](https://www.github.com/rodonn/nested-factorization) |
 | In Kyung Kim | *The impact of social distancing on box-office revenue: Evidence from the COVID-19 pandemic* | *Quantitative Marketing and Economics* | 2021 | [Open](https://github.com/kimik0121/COVID-19) |
 | Chul Kim; Duk Bin Jun; Sungho Park | *Copula-based direct utility models for correlated choice alternatives* | *Quantitative Marketing and Economics* | 2022 | [Open](https://github.com/gunbam-ck/copuladirect) |
+| Sanghak Lee; Sunghoon Kim; Sungho Park | *A sequential choice model for multiple discrete demand* | *Quantitative Marketing and Economics* | 2022 | [Open](https://github.com/slee-bayes/SCM) |
 | Adam N. Smith; Jim E. Griffin | *Shrinkage priors for high-dimensional demand estimation* | *Quantitative Marketing and Economics* | 2023 | [Open](https://github.com/adam-n-smith/hierarchical-shrinkage) |
 | Guy Aridor | *Measuring Substitution Patterns in the Attention Economy: An Experimental Approach* | *RAND Journal of Economics* | 2025 | [Open](https://github.com/rawls238/time_use_study_chrome_extension) |
 
