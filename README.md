@@ -69,6 +69,7 @@ This repository is meant to make replication work in demand estimation more acce
 | Sanghak Lee; Sunghoon Kim; Sungho Park | *A sequential choice model for multiple discrete demand* | *Quantitative Marketing and Economics* | 2022 | [Open](https://github.com/slee-bayes/SCM) |
 | Adam N. Smith; Jim E. Griffin | *Shrinkage priors for high-dimensional demand estimation* | *Quantitative Marketing and Economics* | 2023 | [Open](https://github.com/adam-n-smith/hierarchical-shrinkage) |
 | Ao Wang | *Sieve BLP: A Semi-Nonparametric Model of Demand for Differentiated Products* | *Journal of Econometrics* | 2023 | [Open](https://www.dropbox.com/scl/fo/70xc7rg3kl6hfmv72d4og/AHc1lq-q4r0NRgJBawjprgk?rlkey=ce7rp8zgtlwbodovmpgyl52op&e=1&dl=0) |
+| Alessandro Iaria; Ao Wang | *Real Analytic Discrete Choice Models of Demand: Theory and Implications* | *Econometric Theory* | 2024 | [Open](https://www.dropbox.com/scl/fi/vkynbvvjbatxaftzapzdn/Monte-Carlo_web.rar?rlkey=tov3s5mghivm7cgezpz3doxrh&e=1&dl=0) |
 | Guy Aridor | *Measuring Substitution Patterns in the Attention Economy: An Experimental Approach* | *RAND Journal of Economics* | 2025 | [Open](https://github.com/rawls238/time_use_study_chrome_extension) |
 
 
